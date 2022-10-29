@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "linkedin.com/in/toàn-nguyễn-tất-6922b9174",
+      href: "https://linkedin.com/in/toàn-nguyễn-tất-6922b9174",
       style: "rounded-tr-md",
     },
     {
