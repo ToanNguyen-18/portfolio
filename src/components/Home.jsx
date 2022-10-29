@@ -15,11 +15,9 @@ const Home = () => {
             Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have over 3 years of experience in software field. 
-            I create frontend application running on Windows, Browser and Android.
-            Currently, I build applications using technologies like React, 
-            Tailwind and Sanity. Also using Kotlin, Retrofit, MVVM and PyQT5... 
-            I use Django and RESTful Api for backend running on server.
+            I have over 3 years of experience in building software on Windows, Browser and Android.
+            Currently, I build apps using React, Tailwind and Sanity. Also using Kotlin, Retrofit, MVVM and PyQT5... 
+            I use Django and RESTful Api for server.
           </p>
 
           <div>
