@@ -14,12 +14,12 @@ const About = () => {
         </div>
 
         <p className="text-xl">
-          I love codding and I love logic. I love frontend, backend and Api.
-          I love language and I love framework. That's why now I am a Full Stack Developer. 
-          Starting as an Assembly programer for 8051 MCU families. Now, I know Python,
-          Kotlin, JavaScript and Java. I also know OOPs and its 4 pillars like Polymorphism, 
-          Inheritance, Encapsulation and Abstraction. I use frameworks like Django, React, 
-          and SpringBoot and I can use tool like Visual Code, PyCharm, Android Studio
+          I love codding and I love logic. I love frontend, backend and Api. I love 
+          language and I love framework. That's why I am now a Full Stack Developer. 
+          Starting as an Assembly programer for 8051 MCU, now I know Python, Kotlin, 
+          JavaScript and Java. I also know OOPs and its 4 pillars charateristics. 
+          I use frameworks Django, React, and Spring and tools are Visual Code, 
+          PyCharm, Android Studio. I also know RESTful api and MySQL and PostgreSQL.
         </p>
 
         <br />
@@ -27,9 +27,9 @@ const About = () => {
         <p className="text-xl">
           As a Full Stack Developer I have to adapt to change in technology. I am a 
           self-taught man who can learn new thing fast. Because of understanding OOps, 
-          I can change from one language and its framework to others in a shortest time 
-          as needed. Always, I take advance of youtube and tutorial course for new 
-          technologies like new programming language and new framework. Currently I build
+          I can change from one language and its framework to others in a short time 
+          as needed. Always, youtube and tutorial course are tool of mine for new 
+          technologies, new programming language and new framework. Currently I build
           Web, Windows and Android applications.
         </p>
       </div>
