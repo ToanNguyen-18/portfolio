@@ -14,32 +14,23 @@ const About = () => {
         </div>
 
         <p className="text-xl">
-          I love codding and I love logic. I love threading and I love timer.
-          I love language and I love framework. I love frontend, backend and Api...
-          That's why I want to be a good Full Stack Developer. It's my dream since
-          I was at school. Starting as an Assembly language programer for 
-          8051 MCU families for over 5 years. Now, I came back to codding field 
-          for over 3 years as a Full Stack Developer.
+          I love codding and I love logic. I love frontend, backend and Api.
+          I love language and I love framework. That's why now I am a Full Stack Developer. 
+          Starting as an Assembly programer for 8051 MCU families. Now, I know Python,
+          Kotlin, JavaScript and Java. I also know OOPs and its 4 pillars like Polymorphism, 
+          Inheritance, Encapsulation and Abstraction. I use frameworks like Django, React, 
+          and SpringBoot and I can use tool like Visual Code, PyCharm, Android Studio
         </p>
 
         <br />
 
         <p className="text-xl">
-          I've run through 3 project so far in marketing, security and school fields.
-          Applying Deep Learing, writing API and database in python and django in server.
-          I can create desktop apps run on windows by PyQT5. Web apps run on browser by 
-          React, Boostrap or plain HTML, CSS and JavaScript. For Android I use Kotlin. 
-          I know OOPs and its 4 pillars like Polymorphism, Inheritance, Encapsulation and 
-          Abstraction.
-        </p>
-
-        <br />
-
-        <p className="text-xl">
-          I am a self-taught man and always study by myself new framework and new language.
-          I completed Kotlin and Adroid Studio in 4 months and React in a month. I use React 
-          to write this portfolio Website hosting in Github pages. I am able to learn new 
-          things quickly and love to take use of available resource to achive the expecting result.
+          As a Full Stack Developer I have to adapt to change in technology. I am a 
+          self-taught man who can learn new thing fast. Because of understanding OOps, 
+          I can change from one language and its framework to others in a shortest time 
+          as needed. Always, I take advance of youtube and tutorial course for new 
+          technologies like new programming language and new framework. Currently I build
+          Web, Windows and Android applications.
         </p>
       </div>
     </div>
