@@ -70,7 +70,7 @@ const Portfolio = () => {
                 onClick={() => openFullscreen(id)}
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-2 py- m-2 duration-200 hover:scale-105"          >
+                <button className="w-1/2 px-2 py-1 m-2 duration-200 hover:scale-105"          >
                   Go to project
                 </button>
               </div>
