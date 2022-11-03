@@ -16,19 +16,19 @@ const About = () => {
         <p className="text-xl">
           I love codding and I love logic. I love frontend and I love backend. I love 
           language and I love framework. That's why I am a Full Stack Developer. 
-          Starting as an Assembly programer for 8051 MCU, now I know Python, Kotlin, 
-          JavaScript and Java. I also know OOPs. I use framework of Django, React, and Spring. I use tool of 
-          Visual Code, PyCharm, Android Studio. RESTful api and database of MySQL and PostgreSQL.
+          Starting as an Assembly programer for 8051 MCU, now more Python, Kotlin, 
+          JavaScript... And I also know OOPs, Django, React, Git... and tools of Visual Code, 
+          PyCharm, Android Studio. RESTful api and MySQL and PostgreSQL as well.
         </p>
 
         <br />
 
         <p className="text-xl">
           As a Full Stack Developer I have to adapt to change in technology. I am a 
-          self-taught man who can learn new thing fast. Understanding OOps helps me to 
-          change from one language and its framework to others in a short time. 
-          Always, youtube and tutorial are tool of mine for updating new 
-          technologies, language and framework. Currently, I build Web, Windows and Android applications.
+          self-taught man who can learn new thing fast. OOps helps me to change from 
+          one language and its framework to others in a short time. 
+          Always, youtube and tutorial are tool of mine for updating new technologies, 
+          language and framework. Currently, I build desktop, web, Windows and Android applications.
         </p>
       </div>
     </div>
