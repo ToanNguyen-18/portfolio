@@ -4,10 +4,18 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
+import python from "../assets/python.png";
+import kotlin from "../assets/kotlin.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import c_sharp from "../assets/c_sharp.png";
+import django from "../assets/django.png";
+import android from "../assets/android.png";
+import postgresql from "../assets/postgresql.png";
+import mysql from "../assets/mysql.png";
+import restfulapi from "../assets/restfulapi.png";
+import php from "../assets/php.png";
+import java from "../assets/java.png";
 
 const Experience = () => {
   const techs = [
@@ -33,7 +41,7 @@ const Experience = () => {
       id: 4,
       src: reactImage,
       title: "React",
-      style: "shadow-blue-600",
+      style: "shadow-green-600",
     },
     {
       id: 5,
@@ -43,14 +51,14 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
+      src: python,
+      title: "Python",
       style: "shadow-white",
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
+      src: kotlin,
+      title: "Kotlin",
       style: "shadow-pink-400",
     },
     {
@@ -59,6 +67,55 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
+    {
+      id: 9,
+      src: c_sharp,
+      title: "C#",
+      style: "shadow-gray-100",
+    },
+    {
+      id: 10,
+      src: django,
+      title: "Django",
+      style: "shadow-green-100",
+    },
+    {
+      id: 11,
+      src: android,
+      title: "Android",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 12,
+      src: postgresql,
+      title: "PostgreSQL",
+      style: "shadow-green-100",
+    },
+    {
+      id: 13,
+      src: mysql,
+      title: "MySQL",
+      style: "shadow-blue-900",
+    },
+    {
+      id: 14,
+      src: restfulapi,
+      title: "RESTful Api",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 15,
+      src: php,
+      title: "PHP",
+      style: "shadow-yellow-400",
+    },
+    {
+      id: 16,
+      src: java,
+      title: "Java",
+      style: "shadow-sky-800",
+    },
+
   ];
 
   return (
@@ -74,7 +131,7 @@ const Experience = () => {
           <p className="py-4 sm:py-6">These are the technologies I've worked with</p>
         </div>
 
-        <div className="w-full grid grid-cols-3 sm:grid-cols-3 gap-8 text-center py-8 px-0 sm:px-0">
+        <div className="w-full grid grid-cols-4 sm:grid-cols-4 gap-8 text-center py-8 px-0 sm:px-0">
           {techs.map(({ id, src, title, style }) => (
             <div
               key={id}
