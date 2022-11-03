@@ -27,7 +27,7 @@ const About = () => {
           As a Full Stack Developer I have to adapt to change in technology. I am a 
           self-taught man who can learn new thing fast. OOps helps me to change from 
           one language and its framework to others in a short time. 
-          Always, youtube and tutorial are tool of mine for updating new technologies, 
+          Always, youtube and tutorial are tool of mine for updating new technology, 
           language and framework. Currently, I build desktop, web, Windows and Android applications.
         </p>
       </div>
