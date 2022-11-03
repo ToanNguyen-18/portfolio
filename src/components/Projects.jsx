@@ -2,7 +2,7 @@ import React from "react";
 import student_monitoring from "../assets/portfolio/student_monitoring.jpg";
 import wifi_marketing from "../assets/portfolio/wifi_marketing.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
-// import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import detection from "../assets/portfolio/detection.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 // import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
@@ -12,16 +12,16 @@ const Portfolio = () => {
       id: 1,
       src: student_monitoring,
     },
-    // {
-    //   id: 2,
-    //   src: reactParallax,
-    // },
     {
       id: 2,
-      src: wifi_marketing,
+      src: detection,
     },
     {
       id: 3,
+      src: wifi_marketing,
+    },
+    {
+      id: 4,
       src: reactSmooth,
     },
     // {
