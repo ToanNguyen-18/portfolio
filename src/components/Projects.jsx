@@ -34,6 +34,18 @@ const Portfolio = () => {
     },
   ];
 
+  const openFullscreen = (n) => {
+      let elem = document.getElementById(n);
+
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+      } else if (elem.webkitRequestFullscreen) { /* Safari */
+        elem.webkitRequestFullscreen();
+      } else if (elem.msRequestFullscreen) { /* IE11 */
+        elem.msRequestFullscreen();
+      }
+    }
+
   return (
     <div
       name="projects"
@@ -51,16 +63,15 @@ const Portfolio = () => {
           {portfolios.map(({ id, src }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
+                id={id}
                 src={src}
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
+                onClick={() => openFullscreen(id)}
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
-                </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
+                <button className="w-1/2 px-2 py- m-2 duration-200 hover:scale-105"          >
+                  Go to project
                 </button>
               </div>
             </div>
