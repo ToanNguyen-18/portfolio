@@ -88,7 +88,7 @@ const Experience = () => {
     {
       id: 12,
       src: postgresql,
-      title: "PostgreSQL",
+      title: "Postgre SQL",
       style: "shadow-green-100",
     },
     {
