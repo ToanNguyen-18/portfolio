@@ -1,37 +1,37 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
+import student_monitoring from "../assets/portfolio/student_monitoring.jpg";
+import wifi_marketing from "../assets/portfolio/wifi_marketing.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+// import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+// import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: student_monitoring,
     },
+    // {
+    //   id: 2,
+    //   src: reactParallax,
+    // },
     {
       id: 2,
-      src: reactParallax,
+      src: wifi_marketing,
     },
     {
       id: 3,
-      src: navbar,
-    },
-    {
-      id: 4,
       src: reactSmooth,
     },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
+    // {
+    //   id: 5,
+    //   src: installNode,
+    // },
+    // {
+    //   id: 6,
+    //   src: reactWeather,
+    // },
   ];
 
   const openFullscreen = (n) => {
@@ -59,7 +59,7 @@ const Portfolio = () => {
           <p className="py-4 sm:py-6">Check out some of my work right here</p>
         </div>
 
-        <div className="w-full grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-8 px-0 sm:px-0">
+        <div className="w-full grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 gap-8 px-0 sm:px-0">
           {portfolios.map(({ id, src }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
@@ -69,11 +69,6 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
                 onClick={() => openFullscreen(id)}
               />
-              <div className="flex items-center justify-center">
-                <button className="w-full px-2 py-1 m-2 duration-200 hover:scale-105"          >
-                  Go to project
-                </button>
-              </div>
             </div>
           ))}
         </div>
