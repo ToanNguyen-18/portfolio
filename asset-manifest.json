@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.680fbaf8.css",
-    "main.js": "/static/js/main.b8f81206.js",
+    "main.js": "/static/js/main.97c8df15.js",
     "static/media/student_monitoring.jpg": "/static/media/student_monitoring.b58b92bf727596260284.jpg",
+    "static/media/detection.jpg": "/static/media/detection.88e39de0b0f2913b814c.jpg",
     "static/media/wifi_marketing.jpg": "/static/media/wifi_marketing.b98946774b89556cfa33.jpg",
     "static/media/heroImage.png": "/static/media/heroImage.967e25d5f70e6b2cdf5e.png",
     "static/media/mysql.png": "/static/media/mysql.343eef5b1fcae4c4a270.png",
@@ -21,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.680fbaf8.css.map": "/static/css/main.680fbaf8.css.map",
-    "main.b8f81206.js.map": "/static/js/main.b8f81206.js.map"
+    "main.97c8df15.js.map": "/static/js/main.97c8df15.js.map"
   },
   "entrypoints": [
     "static/css/main.680fbaf8.css",
-    "static/js/main.b8f81206.js"
+    "static/js/main.97c8df15.js"
   ]
 }
