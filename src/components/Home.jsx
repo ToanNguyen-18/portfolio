@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Not only I have experience in building software with Deep Learning, but also I've ever been an English interpeter in technology seminars organized by my company and overseas partners. 
+            Not only I have experience in building software with Deep Learning, but also I've ever been an English interpeter in technology seminars, organized by my company and overseas partners. 
           </p>
 
           <div>
