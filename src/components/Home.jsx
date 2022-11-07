@@ -15,8 +15,8 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have experience in developing software. Currently, I build prontend apps using React, Tailwind and Sanity. 
-            Also, I use Kotlin, Retrofit, MVVM to create Android apps. And, I use Django and RESTful Api for backend.
+            I have experience in building software with Deep Learning. Currently, I build prontend apps using React, Tailwind and Sanity. 
+            Also, I use Kotlin, Retrofit, MVVM to create Android apps. And, I use Django, Nodejs and RESTful Api for backend.
           </p>
 
           <div>
