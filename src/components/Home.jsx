@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             Not only I have experience in building software combine with Deep Learning, but also I am competent at English.
-            I have ever been an English interpeter in technology seminars organized by my company with overseas partners. 
+            I've ever been an English interpeter in technology seminars organized by my company and overseas partners. 
           </p>
 
           <div>
