@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.449b5acc.css",
-    "main.js": "/static/js/main.baa92b89.js",
+    "main.js": "/static/js/main.2bb2ff9a.js",
     "static/media/student_monitoring.jpg": "/static/media/student_monitoring.b58b92bf727596260284.jpg",
     "static/media/detection.jpg": "/static/media/detection.88e39de0b0f2913b814c.jpg",
     "static/media/wifi_marketing.jpg": "/static/media/wifi_marketing.b98946774b89556cfa33.jpg",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.449b5acc.css.map": "/static/css/main.449b5acc.css.map",
-    "main.baa92b89.js.map": "/static/js/main.baa92b89.js.map"
+    "main.2bb2ff9a.js.map": "/static/js/main.2bb2ff9a.js.map"
   },
   "entrypoints": [
     "static/css/main.449b5acc.css",
-    "static/js/main.baa92b89.js"
+    "static/js/main.2bb2ff9a.js"
   ]
 }
