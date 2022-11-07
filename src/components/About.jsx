@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl">
-          I love frontend and I love backend. I love language and I love framework. That's why I am a Full Stack Developer. 
+          I love frontend and I love backend. I love language and I love framework. That's why I am a Software Engineer. 
           I have experience in building software combine with Deep Learning. Currently, I use Python, JavaScript, Kotlin and 
           C# together with Django, React, Android Studio, ASP.NET, RESTful API, and PostgreSQL to build application.
         </p>
@@ -22,7 +22,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          As a Full Stack Developer I have to adapt to change in technology. I am a 
+          As a Software Engineer I have to adapt to change in technology. I am a 
           self-taught man who can learn new thing fast. I can change from one language 
           and its framework to others in short time. Always, youtube and online tutorial are 
           tool of mine for updating new language and framework. I can build Desktop, Web, Windows and Android applications.
