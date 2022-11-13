@@ -44,6 +44,18 @@ const SocialLinks = () => {
       style: "rounded-br-md",
       download: true,
     },
+    {
+      id: 5,
+      child: (
+        <>
+          Apk <BsFillPersonLinesFill size={30} />
+        </>
+      ),
+      href: "/app.apk",
+      style: "rounded-br-md",
+      download: true,
+    },
+
   ];
 
   return (
