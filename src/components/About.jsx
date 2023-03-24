@@ -15,17 +15,14 @@ const About = () => {
 
         <p className="text-xl">
           I love frontend and I love backend. I love language and I love framework. That's why I am a Software Engineer. 
-          I have experience in building software combine with Deep Learning. Currently, I use Python, JavaScript, Kotlin and 
-          C# together with Django, React, Android Studio, ASP.NET, RESTful API, and PostgreSQL to build application.
+          I have experience with Python, JavaScript, and Kotlin together with Django, React, Android Studio, RESTful API, and PostgreSQL...
         </p>
 
         <br />
 
         <p className="text-xl">
-          As a Software Engineer I have to adapt to change in technology. I am a 
-          self-taught man who can learn new thing fast. I can change from one language 
-          and its framework to others in short time. Always, youtube and online tutorial are 
-          tool of mine for updating new language and framework. I can build Desktop, Web, Windows and Android applications.
+          As a Software Engineer I have to adapt quickly to changeable technologies. I am a self-taught man who can create Web, Windows and Android applications.
+          I can change from one language to another in very short time. Everyday, youtube and online news are tools for updating new skills and technologies.
         </p>
       </div>
     </div>
