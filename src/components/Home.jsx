@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Software Engineer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I learnt frontend at first then moved to backend. I can do frontend job but I like to focus on building backend.
+            I learnt frontend at first then I moved to backend. I can do the frontend job but I like to focus on building the backend.
           </p>
 
           <div>
